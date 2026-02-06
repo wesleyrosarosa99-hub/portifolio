@@ -1,0 +1,11 @@
+body{
+    background-image: linear-gradient(to right,#18B7A3,#2EC4A6,#7FE3C1);
+    color: #F5FFFB;
+    font-size: inter 48px;
+}
+.py{
+    color: #F9F366;
+}
+.meuform{
+    background-color: transparent;
+}
