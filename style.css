@@ -2,6 +2,8 @@ body{
     background-image: linear-gradient(to right,#18B7A3,#2EC4A6,#7FE3C1);
     color: #F5FFFB;
     font-size: inter 48px;
+    font-family: Inter, sans-serif;
+    padding: 20px;
 }
 .py{
     color: #F9F366;
@@ -9,3 +11,48 @@ body{
 .meuform{
     background-color: transparent;
 }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.head{
+    text-align: center;
+    padding:2rem;
+    border-radius: 5rem;
+    
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between ;
+    gap: 2rem;
+
+}
+.gavetas{
+    padding: 2rem;
+    border-radius: 48px 0;
+    background-color:#96E6C8 ;
+}
+
+    
+.cabeça{display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between ;
+    gap: 2rem;
+
+}
+
+
+
+.perfil{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+
+
+}
+

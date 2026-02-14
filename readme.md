@@ -1,1 +1,1 @@
-Este é meu primeiro site , aqui você vai encontrar algumas informações sobre a minha histoira e algumas projestos mesus.
+Este é meu primeiro site , aqui você vai encontrar algumas informações sobre a minha histoira e algumas projestos meus.
